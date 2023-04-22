@@ -1,4 +1,4 @@
-<h1 align="left">API CALLS<br><i>Topics: Weather & Geospatial Analysis</i> </h1> 
+<h1 align="left">API<br><i>Topics: Weather & Geospatial Analysis</i> </h1> 
 
 <p>This project leverages API calls, GET requests, JSON traversals, and pandas/matplotlib data manipulation to analyze weather patterns as we approach the equator and utilize the results to plan future vacations.
 </p>
